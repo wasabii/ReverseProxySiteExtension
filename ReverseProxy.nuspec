@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>reverseproxy</id>
+    <id>ReverseProxy.SiteExtension</id>
     <title>ReverseProxy</title>
-    <version>1.0.2</version>
-    <authors>Eelco Koster</authors>
+    <version>1.0.3</version>
+    <authors>Eelco Koster, Jerome Haltom</authors>
     <licenseUrl>http://opensource.org/licenses/Apache-2.0</licenseUrl>
     <projectUrl>https://github.com/EelcoKoster/ReverseProxySiteExtension</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
